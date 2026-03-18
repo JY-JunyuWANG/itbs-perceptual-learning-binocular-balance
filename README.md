@@ -7,8 +7,6 @@ This repository is used to publicly share data and materials related to the pape
 
 ## Repository structure
 - `data/` — anonymized data files and documentation (see `data/README.md`)
-- `code/` — analysis scripts (if applicable)
-- `materials/` — task/stimulus/parameter descriptions (if applicable)
 
 ## How to cite
 Please cite the associated Cortex manuscript and this GitHub repository:
