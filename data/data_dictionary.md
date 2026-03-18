@@ -39,7 +39,6 @@ Example filename:
 ## Data contents
 - File format: MATLAB `.mat` (or archived as `.zip` containing `.mat` files).
 - Each file corresponds to a specific participant (`Sub###`), day (`D#`), and block (`E/L/O` with block number).
-- Primary outcomes and variable definitions should be documented in `data_dictionary.md`.
 
 ## Recommended usage
 1. Download the data files (or the `.zip` archive, if provided) and extract them.
