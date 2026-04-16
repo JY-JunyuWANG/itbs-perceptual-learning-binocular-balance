@@ -1,7 +1,7 @@
 # itbs-perceptual-learning-binocular-balance
 
 Data for: **Sequence-dependent effects of iTBS and perceptual learning on binocular balance**  
-Manuscript number: **CORTEX-S-26-00032**
+Manuscript number: **CORTEX-D-26-00032R1**
 
 This repository is used to publicly share data and materials related to the paper, facilitating peer review and reproducibility.
 
