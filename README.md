@@ -7,6 +7,7 @@ This repository is used to publicly share data and materials related to the pape
 
 ## Repository structure
 - `data/` — anonymized data files and documentation (see `data/README.md`)
+- `Motion task.zip` — contains MATLAB scripts for data analysis and research materials
 
 ## How to cite
 Please cite the associated Cortex manuscript and this GitHub repository:
